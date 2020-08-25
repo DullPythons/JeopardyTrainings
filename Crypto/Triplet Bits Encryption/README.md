@@ -11,3 +11,6 @@ I have to encrypt super secret information, so I used triplet bits. Is it really
 Соответственно, если больше нулей, то изначально была 1 и наоборот. Это следует из особенностей функции mixkeybit. <br/>
 Решение в triplet_bits.py <br/>
 **Poseidon{7h3_u53_0f_pr0b4b1l17y_15_57r0n6}**
+
+
+https://www.josephsurin.me/posts/2020-08-09-poseidonctf-2020-writeups#triplet-bits-encryption
